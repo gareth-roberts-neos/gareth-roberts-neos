@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gareth Roberts. Head of AI at NEOS
+- 👀 I’m interested in building tools that use AI to help people and processes
+- 🌱 I’m currently learning everything about LLMs
+- 📫 How to reach me groberts@neoslife.com.au
